@@ -1,22 +1,6 @@
-# ⚛️ Quantum Algorithms Study Tracker
+# Quantum Algorithms
 
-Welcome to my Quantum Computing journey! This repository serves as a tracker and codebase for my progress in learning, deriving, and implementing the major quantum algorithms. 
-
-The study plan is structured sequentially: moving from foundational concepts (like phase kickback) to master subroutines (like QFT), and finally scaling up to NISQ and Fault-Tolerant applications.
-
----
-
-## 🛠️ Prerequisites
-Before diving into the algorithms, these mathematical and conceptual foundations must be solidified:
-- [ ] **Linear Algebra:** Vectors, matrices, eigenvalues/eigenvectors, tensor products.
-- [ ] **Complex Numbers:** Arithmetic, polar coordinates, Euler's formula.
-- [ ] **Dirac Notation:** Bra-ket notation ($|\psi\rangle$).
-- [ ] **Basic Quantum Gates:** Pauli (X, Y, Z), Hadamard (H), Phase (S, T), and CNOT.
-- [ ] **Setup Environment:** Install [Qiskit](https://qiskit.org/) or [PennyLane](https://pennylane.ai/).
-
----
-
-## 🗺️ The Roadmap
+## The Roadmap
 
 ### Phase 1: The Foundations (Phase Kickback & Interference)
 *Learning how quantum computers use interference to eliminate wrong answers and amplify correct ones.*
@@ -102,6 +86,3 @@ Before diving into the algorithms, these mathematical and conceptual foundations
 * **Textbook:** [Quantum Computation and Quantum Information (Nielsen & Chuang)](https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information) - *The standard Bible of QC.*
 * **Interactive:** [IBM Qiskit Course](https://learning.quantum.ibm.com/)
 * **Machine Learning:** [Xanadu PennyLane Demos](https://pennylane.ai/qml/demonstrations/)
-
----
-*Tracker inspired by the pedagogical sequence of quantum information science.*
