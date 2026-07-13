@@ -4,7 +4,7 @@
 
 ### Phase 1: The Foundations (Phase Kickback & Interference)
 *Learning how quantum computers use interference to eliminate wrong answers and amplify correct ones.*
-- [ ] **1. Deutsch-Jozsa Algorithm**
+- [x] **1. Deutsch-Jozsa Algorithm**
 - [ ] **2. Bernstein-Vazirani Algorithm**
 - [ ] **3. Simon’s Algorithm**
 
