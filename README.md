@@ -10,7 +10,7 @@
 
 ### Phase 2: The Core Engines (Master Subroutines)
 *The fundamental mathematical engines that power almost all advanced quantum algorithms.*
-- [ ] **4. Quantum Fourier Transform (QFT)**
+- [x] **4. Quantum Fourier Transform (QFT)**
 - [ ] **5. Quantum Phase Estimation (QPE)**
 
 ### Phase 3: The Crown Jewels
