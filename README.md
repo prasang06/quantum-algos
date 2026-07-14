@@ -6,7 +6,7 @@
 *Learning how quantum computers use interference to eliminate wrong answers and amplify correct ones.*
 - [x] **1. Deutsch-Jozsa Algorithm**
 - [x] **2. Bernstein-Vazirani Algorithm**
-- [ ] **3. Simon’s Algorithm**
+- [x] **3. Simon’s Algorithm**
 
 ### Phase 2: The Core Engines (Master Subroutines)
 *The fundamental mathematical engines that power almost all advanced quantum algorithms.*
