@@ -15,7 +15,7 @@
 
 ### Phase 3: The Crown Jewels
 *The algorithms that put quantum computing on the map.*
-- [ ] **6. Shor’s Algorithm (Factoring)**
+- [x] **6. Shor’s Algorithm (Factoring)**
 - [ ] **7. Grover’s Algorithm (Search)**
 - [ ] **8. Quantum Counting**
 
