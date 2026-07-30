@@ -16,8 +16,8 @@
 ### Phase 3: The Crown Jewels
 *The algorithms that put quantum computing on the map.*
 - [x] **6. Shor’s Algorithm (Factoring)**
-- [ ] **7. Grover’s Algorithm (Search)**
-- [ ] **8. Quantum Counting**
+- [x] **7. Grover’s Algorithm (Search)**
+- [x] **8. Quantum Counting**
 
 ### Phase 4: Simulating Nature
 *Feynman's original vision: using quantum systems to simulate quantum systems.*
